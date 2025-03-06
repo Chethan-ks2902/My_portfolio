@@ -164,7 +164,7 @@ img {
 background-size:cover;
  height: 100vh;
  background-position: right;
-  background-image: url("/assets/img/IMG-20250306-WA0008.jpg");
+  background-image: url("assets/img/IMG-20250306-WA0008.jpg");
   background-repeat: inherit;
 }
 
